@@ -1,0 +1,35 @@
+.h-header{
+	height: 50px
+}
+.h-box{
+	height: 900px
+}
+.h-width{
+	width: 2000px
+}
+.h-info{
+	height: 35px
+}
+.h-info2{
+	height: 40px
+}
+.h-danger{
+	height: 100px
+}
+.h{
+	height: 150px
+}
+.ff-arial{
+	font-family: arial
+}
+.h-logo{
+	height: 60px;
+	border-radius: 50px;
+
+}
+.like{
+	height: 30px
+}
+.share{
+	height: 45px
+}
